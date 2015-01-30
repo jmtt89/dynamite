@@ -1,5 +1,5 @@
 {
-  "name": "dynamite",
+  "name": "jmtt_dynamite",
   "version": "0.1.0",
   "description": "dynamite its a short library to connect DynamoDB and NodeJS",
   "main": "index.js",
